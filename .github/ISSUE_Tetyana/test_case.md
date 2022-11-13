@@ -1,5 +1,5 @@
 ---
-name: Testcase
+name: TestCase
 about: Describe the purpose and goal of a TestCase.
 title: "[Change request to #...] <Story title>"
 labels: TestCase
